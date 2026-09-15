@@ -10,7 +10,7 @@ I 🎯 Project Overview
 
 Missing a railway stop is a common problem for passengers, especially during long-distance or night journeys.
 
-The **Smart Train Destination Alert System** aims to solve this problem by monitoring the passenger's travel location and notifying them before they reach their selected destination through alert.
+The **Smart Train Destination Alert System** aims to solve this problem by monitoring the passenger's travel   location and notifying them before they reach their selected destination through alert.
 
 Instead of continuously checking maps or station names, users can simply select their destination and allow the application to monitor the journey.
 
