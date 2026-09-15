@@ -76,7 +76,8 @@ The Smart Train Destination Alert System acts as a personal travel assistant.
 
 By combining destination selection, journey monitoring, and automated alerts, the system helps passengers know when they are approaching their stop.
 
-The main goal is to make railway travel more convenient, stress-free, and reliable.
+The main goal is to make railway travel more convenient, stress-free, and reliable
+Promoting automation to perform the early detection of particular location.
 
 ---
 
